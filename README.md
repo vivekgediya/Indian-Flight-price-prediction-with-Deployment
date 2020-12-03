@@ -2,7 +2,7 @@
 
 Useful project for beginners with deployement On Heroku.
 
-Requirments - 
+Requirments library to deploy model on Heroku - 
 
 appdirs==1.4.3
 certifi==2020.6.20
@@ -28,3 +28,5 @@ wincertstore==0.2
 catboost>=0.2
 
 You can install libraries using -> pip install <lib_name> Or in conda environment using - conda install <lib_name>
+
+*** Procfile and requirements.txt are necessary for deployment you can see from documantation. ***
